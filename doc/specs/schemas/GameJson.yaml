@@ -5,7 +5,7 @@ properties:
   rated:
     type: boolean
   variant:
-    $ref: './VariantKey.yaml'
+    $ref: './Variant.yaml'
   speed:
     $ref: './Speed.yaml'
   perf:
